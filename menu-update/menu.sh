@@ -68,7 +68,7 @@ IPVPS=$(curl -s ipinfo.io/ip )
 	up=$(uptime|awk '{ $1=$2=$(NF-6)=$(NF-5)=$(NF-4)=$(NF-3)=$(NF-2)=$(NF-1)=$NF=""; print }')
 	
 echo -e  "  ╔════════════════════════════════════════════════════════════╗" | lolcat
-echo -e  "  ║                   🥷 ALVI CELL 🥷                            ║" | lolcat
+echo -e  "  ║                        🥷 ALVI CELL 🥷                                ║" | lolcat
 echo -e  "  ╠════════════════════════════════════════════════════════════╝" | lolcat
 echo -e  "  ║                      VPS PANEL INFO" | lolcat
 echo -e  "  ║ " | lolcat
@@ -87,7 +87,7 @@ echo -e  "  ║    \e[32;1mDeveloper :ALVI CELL"
 echo -e  "  ║    \e[32;1mW.A :082183496832"
 echo -e  "  ║ " | lolcat
 echo -e  "  ╠════════════════════════════════════════════════════════════╗" | lolcat
-echo -e  "  ║                       ♠ MENU OPTIONS ♠                     ║" | lolcat
+echo -e  "  ║                       ♠ MENU OPTIONS ♠                              ║" | lolcat
 echo -e  "  ╠════════════════════════════════════════════════════════════╝" | lolcat
 echo -e  "  ║ " | lolcat
 echo -e  "  ║      [ 1 ] =>  >>  >>  SSH & OpenVPN"  | lolcat
@@ -103,10 +103,10 @@ echo -e  "  ║      [ 10 ] =>  >>  >>  BACKUP" | lolcat
 echo -e  "  ║      [ 11 ] =>  >>  >>  GANTI PSWD VPS | lolcat
 echo -e  "  ║ " | lolcat
 echo -e  "  ╠════════════════════════════════════════════════════════════╗" | lolcat
-echo -e  "  ║               Exit Panel Just Press Enter                  ║" | lolcat
+echo -e  "  ║               Exit Panel Just Press Enter                             ║" | lolcat
 echo -e  "  ╠════════════════════════════════════════════════════════════╣" | lolcat
-echo -e  "  ║           🥷 COPYRIGHT © 2021  🥷                            ║" | lolcat
-echo -e  "  ║                    POWERED BY ALVI CEL 🥷                   ║" | lolcat
+echo -e  "  ║           🥷 COPYRIGHT © 2021  🥷                                     ║" | lolcat
+echo -e  "  ║                    POWERED BY ALVI CEL 🥷                             ║" | lolcat
 echo -e  "  ╚════════════════════════════════════════════════════════════╝" | lolcat
 echo -e  "\e[1;31m"
 read -p  "           Select From Options :  " menu
