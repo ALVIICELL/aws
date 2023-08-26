@@ -1,4 +1,4 @@
-<h2 align="center">AutoScript Install SSH & OpenVPN & V2rayXray & SSR & Trojan & WireGuard For VPS By PrinceNewbie <img src="https://img.shields.io/badge/Version-2.0.5-blue.svg"></h2>
+<h2 align="center">AutoScript Install SSH & OpenVPN & V2rayXray & SSR & Trojan & WireGuard For VPS By ALVI CELL <img src="https://img.shields.io/badge/Version-2.0.5-blue.svg"></h2>
 
 
 <h2 align="center">Supported Linux Distribution</h2>
