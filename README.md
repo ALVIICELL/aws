@@ -90,6 +90,6 @@ src="https://img.shields.io/badge/Service-V2ray-success.svg">  <img src= "https:
 	
 	            
 	
-	<p align="center"><img src="https://img.shields.io/badge/%20COPYRIGHT%20%C2%A9%202022-%20By%20PrinceNewbie%20VPN%2C%20Inc-blue"></p>
+	<p align="center"><img src="https://img.shields.io/badge/%20COPYRIGHT%20%C2%A9%202022-%20By%20ALVI CELL%20VPN%2C%20Inc-blue"></p>
 
 <pre><code> sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip && wget https://raw.githubusercontent.com/ALVIICELL/aws/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh <code></pre>
