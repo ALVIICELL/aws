@@ -20,9 +20,7 @@ src="https://img.shields.io/badge/Service-V2ray-success.svg">  <img src= "https:
   ```
  <img src="https://img.shields.io/badge/Install All-VPN%20Batch-green"></img>
  ```html
- wget https://raw.githubusercontent.com/ALVIICELL/aws/main/setup.sh 
- chmod +x setup.sh 
- ./setup.sh
+ wget https://raw.githubusercontent.com/ALVIICELL/aws/main/setup.sh chmod +x setup.sh ./setup.sh
  ```
  <img src="https://img.shields.io/badge/Install%20Only-SSH%2FSSH%20SSL(Stunnel)%20SSH--WS%20Python%20BadVPN--UDPGW-green"></img>
  ```html
